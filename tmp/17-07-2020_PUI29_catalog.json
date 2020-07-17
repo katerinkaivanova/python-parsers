@@ -1,0 +1,86 @@
+[
+  {
+    "id": 27176,
+    "name": "Губка Фрекен БОК, Дуэт, кухонная, 2 шт.",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3305443.jpg",
+    "plu": 3305443,
+    "promo": {
+      "id": 1128688059,
+      "date_begin": "2020-07-09",
+      "date_end": "2020-08-06",
+      "type": "PROM",
+      "description": "ЦФ 09.07-06.08.20 Сезон №9",
+      "kind": "Z011",
+      "expired_at": 20
+    },
+    "current_prices": {
+      "price_reg__min": 35.69,
+      "price_promo__min": 34.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 27067,
+    "name": "Средство для мытья посуды Frosch, лимон, 500 мл",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/95460.jpg",
+    "plu": 95460,
+    "promo": {
+      "id": 1128688059,
+      "date_begin": "2020-07-09",
+      "date_end": "2020-08-06",
+      "type": "PROM",
+      "description": "ЦФ 09.07-06.08.20 Сезон №9",
+      "kind": "Z011",
+      "expired_at": 20
+    },
+    "current_prices": {
+      "price_reg__min": 94.99,
+      "price_promo__min": 74.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 25795,
+    "name": "FAIRY Ср.СОЧНЫЙ ЛИМОН д/мыт.посуды 900мл",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3501026.jpg",
+    "plu": 3501026,
+    "promo": {
+      "id": 1130608640,
+      "date_begin": "2020-07-14",
+      "date_end": "2020-07-20",
+      "type": "PROM",
+      "description": "ЦФ 14.07-20.07.20 2020 ПРОМО 29",
+      "kind": "Z001",
+      "expired_at": 3
+    },
+    "current_prices": {
+      "price_reg__min": 155.99,
+      "price_promo__min": 99.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 25796,
+    "name": "FAIRY Ср.НЕЖ.РУКИ РОМАШ/ВИТ.Ед/пос.900мл",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3501028.jpg",
+    "plu": 3501028,
+    "promo": {
+      "id": 1130608640,
+      "date_begin": "2020-07-14",
+      "date_end": "2020-07-20",
+      "type": "PROM",
+      "description": "ЦФ 14.07-20.07.20 2020 ПРОМО 29",
+      "kind": "Z001",
+      "expired_at": 3
+    },
+    "current_prices": {
+      "price_reg__min": 129.99,
+      "price_promo__min": 99.99
+    },
+    "store_name": null
+  }
+]

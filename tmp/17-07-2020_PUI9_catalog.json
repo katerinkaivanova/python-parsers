@@ -1,0 +1,149 @@
+[
+  {
+    "id": 21795,
+    "name": "DIROL Жев.рез.АРБУЗНО-ДЫННЫЙ КОКТ.13,6г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/2083382.jpg",
+    "plu": 2083382,
+    "promo": {
+      "id": 1129595056,
+      "date_begin": "2020-07-07",
+      "date_end": "2020-08-03",
+      "type": "PROM",
+      "description": "Сезон №9 Алком ЦФ 07.07.2020-03.08.2020",
+      "kind": "Z011",
+      "expired_at": 17
+    },
+    "current_prices": {
+      "price_reg__min": 29.49,
+      "price_promo__min": 19.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 21802,
+    "name": "DIROL Жеват.резин.без сахара мята 13,6г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3257582.jpg",
+    "plu": 3257582,
+    "promo": {
+      "id": 1129595056,
+      "date_begin": "2020-07-07",
+      "date_end": "2020-08-03",
+      "type": "PROM",
+      "description": "Сезон №9 Алком ЦФ 07.07.2020-03.08.2020",
+      "kind": "Z011",
+      "expired_at": 17
+    },
+    "current_prices": {
+      "price_reg__min": 29.49,
+      "price_promo__min": 19.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 21823,
+    "name": "DIROL Жев.рез.КЛУБН-ЧЕРЕШ.б/сах 13.6г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3445784.jpg",
+    "plu": 3445784,
+    "promo": {
+      "id": 1129595056,
+      "date_begin": "2020-07-07",
+      "date_end": "2020-08-03",
+      "type": "PROM",
+      "description": "Сезон №9 Алком ЦФ 07.07.2020-03.08.2020",
+      "kind": "Z011",
+      "expired_at": 17
+    },
+    "current_prices": {
+      "price_reg__min": 29.49,
+      "price_promo__min": 19.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 27385,
+    "name": "Dirol Colors XXL Жевательная резинка Ассорти фруктовых вкусов 19гр",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3612241.jpg",
+    "plu": 3612241,
+    "promo": {
+      "id": 1128688059,
+      "date_begin": "2020-07-09",
+      "date_end": "2020-08-06",
+      "type": "PROM",
+      "description": "ЦФ 09.07-06.08.20 Сезон №9",
+      "kind": "Z011",
+      "expired_at": 20
+    },
+    "current_prices": {
+      "price_reg__min": 32.99,
+      "price_promo__min": 19.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 27694,
+    "name": "Конфеты Бананоман, Mixbar, 201 г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/4012029.jpg",
+    "plu": 4012029,
+    "promo": {
+      "id": 1128688059,
+      "date_begin": "2020-07-09",
+      "date_end": "2020-08-06",
+      "type": "PROM",
+      "description": "ЦФ 09.07-06.08.20 Сезон №9",
+      "kind": "Z011",
+      "expired_at": 20
+    },
+    "current_prices": {
+      "price_reg__min": 49.99,
+      "price_promo__min": 34.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 27577,
+    "name": "Набор шоколадных конфет O'Zera Praline 190г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3906839.jpg",
+    "plu": 3906839,
+    "promo": {
+      "id": 1128688059,
+      "date_begin": "2020-07-09",
+      "date_end": "2020-08-06",
+      "type": "PROM",
+      "description": "ЦФ 09.07-06.08.20 Сезон №9",
+      "kind": "Z011",
+      "expired_at": 20
+    },
+    "current_prices": {
+      "price_reg__min": 249.99,
+      "price_promo__min": 159.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 27311,
+    "name": "Конфеты Tofiffe, 250 г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3468950.jpg",
+    "plu": 3468950,
+    "promo": {
+      "id": 1128688059,
+      "date_begin": "2020-07-09",
+      "date_end": "2020-08-06",
+      "type": "PROM",
+      "description": "ЦФ 09.07-06.08.20 Сезон №9",
+      "kind": "Z011",
+      "expired_at": 20
+    },
+    "current_prices": {
+      "price_reg__min": 329.99,
+      "price_promo__min": 199.99
+    },
+    "store_name": null
+  }
+]

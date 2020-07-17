@@ -1,0 +1,233 @@
+[
+  {
+    "id": 27088,
+    "name": "Крупа перловая, Увелка, 5х80 г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/2070151.jpg",
+    "plu": 2070151,
+    "promo": {
+      "id": 1128688059,
+      "date_begin": "2020-07-09",
+      "date_end": "2020-08-06",
+      "type": "PROM",
+      "description": "ЦФ 09.07-06.08.20 Сезон №9",
+      "kind": "Z011",
+      "expired_at": 20
+    },
+    "current_prices": {
+      "price_reg__min": 52.99,
+      "price_promo__min": 39.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 27087,
+    "name": "Крупа кукурузная, Увелка, 5х80 г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/2070142.jpg",
+    "plu": 2070142,
+    "promo": {
+      "id": 1128688059,
+      "date_begin": "2020-07-09",
+      "date_end": "2020-08-06",
+      "type": "PROM",
+      "description": "ЦФ 09.07-06.08.20 Сезон №9",
+      "kind": "Z011",
+      "expired_at": 20
+    },
+    "current_prices": {
+      "price_reg__min": 49.99,
+      "price_promo__min": 42.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 27389,
+    "name": "Чечевица зеленая Увелка, 500 г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3619647.jpg",
+    "plu": 3619647,
+    "promo": {
+      "id": 1128688059,
+      "date_begin": "2020-07-09",
+      "date_end": "2020-08-06",
+      "type": "PROM",
+      "description": "ЦФ 09.07-06.08.20 Сезон №9",
+      "kind": "Z011",
+      "expired_at": 20
+    },
+    "current_prices": {
+      "price_reg__min": 54.99,
+      "price_promo__min": 44.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 25590,
+    "name": "Пшено Увелка, шлифованное, 800 г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/39441.jpg",
+    "plu": 39441,
+    "promo": {
+      "id": 1130608640,
+      "date_begin": "2020-07-14",
+      "date_end": "2020-07-20",
+      "type": "PROM",
+      "description": "ЦФ 14.07-20.07.20 2020 ПРОМО 29",
+      "kind": "Z001",
+      "expired_at": 3
+    },
+    "current_prices": {
+      "price_reg__min": 69.99,
+      "price_promo__min": 56.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 25808,
+    "name": "Рис Увелка, круглозерный, 400 г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3603169.jpg",
+    "plu": 3603169,
+    "promo": {
+      "id": 1130608640,
+      "date_begin": "2020-07-14",
+      "date_end": "2020-07-20",
+      "type": "PROM",
+      "description": "ЦФ 14.07-20.07.20 2020 ПРОМО 29",
+      "kind": "Z001",
+      "expired_at": 3
+    },
+    "current_prices": {
+      "price_reg__min": 69.19,
+      "price_promo__min": 56.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 27037,
+    "name": "Горох Увелка, 800 г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/39156.jpg",
+    "plu": 39156,
+    "promo": {
+      "id": 1128688059,
+      "date_begin": "2020-07-09",
+      "date_end": "2020-08-06",
+      "type": "PROM",
+      "description": "ЦФ 09.07-06.08.20 Сезон №9",
+      "kind": "Z011",
+      "expired_at": 20
+    },
+    "current_prices": {
+      "price_reg__min": 65.99,
+      "price_promo__min": 59.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 27530,
+    "name": "Рис для плова по-узбекски, Увелка, 800 г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3680427.jpg",
+    "plu": 3680427,
+    "promo": {
+      "id": 1128688059,
+      "date_begin": "2020-07-09",
+      "date_end": "2020-08-06",
+      "type": "PROM",
+      "description": "ЦФ 09.07-06.08.20 Сезон №9",
+      "kind": "Z011",
+      "expired_at": 20
+    },
+    "current_prices": {
+      "price_reg__min": 90.19,
+      "price_promo__min": 72.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 25567,
+    "name": "Рис Кубань круглозерный, Мистраль, 900 г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3766.jpg",
+    "plu": 3766,
+    "promo": {
+      "id": 1130608640,
+      "date_begin": "2020-07-14",
+      "date_end": "2020-07-20",
+      "type": "PROM",
+      "description": "ЦФ 14.07-20.07.20 2020 ПРОМО 29",
+      "kind": "Z001",
+      "expired_at": 3
+    },
+    "current_prices": {
+      "price_reg__min": 106.99,
+      "price_promo__min": 74.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 25575,
+    "name": "Крупа гречневая, Агро-Альянс, 900 г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/14301.jpg",
+    "plu": 14301,
+    "promo": {
+      "id": 1130608640,
+      "date_begin": "2020-07-14",
+      "date_end": "2020-07-20",
+      "type": "PROM",
+      "description": "ЦФ 14.07-20.07.20 2020 ПРОМО 29",
+      "kind": "Z001",
+      "expired_at": 3
+    },
+    "current_prices": {
+      "price_reg__min": 80.19,
+      "price_promo__min": 79.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 27038,
+    "name": "Рис длиннозерный, Увелка, 800 г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/39443.jpg",
+    "plu": 39443,
+    "promo": {
+      "id": 1128688059,
+      "date_begin": "2020-07-09",
+      "date_end": "2020-08-06",
+      "type": "PROM",
+      "description": "ЦФ 09.07-06.08.20 Сезон №9",
+      "kind": "Z011",
+      "expired_at": 20
+    },
+    "current_prices": {
+      "price_reg__min": 89.99,
+      "price_promo__min": 82.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 25569,
+    "name": "Рис Мистраль, Басмати, белый, ароматный, 500 г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/5722.jpg",
+    "plu": 5722,
+    "promo": {
+      "id": 1130608640,
+      "date_begin": "2020-07-14",
+      "date_end": "2020-07-20",
+      "type": "PROM",
+      "description": "ЦФ 14.07-20.07.20 2020 ПРОМО 29",
+      "kind": "Z001",
+      "expired_at": 3
+    },
+    "current_prices": {
+      "price_reg__min": 109.0,
+      "price_promo__min": 99.99
+    },
+    "store_name": null
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "id": 27123,
+    "name": "Пельмени традиционные Останкино, 900 г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3048274.jpg",
+    "plu": 3048274,
+    "promo": {
+      "id": 1128688059,
+      "date_begin": "2020-07-09",
+      "date_end": "2020-08-06",
+      "type": "PROM",
+      "description": "ЦФ 09.07-06.08.20 Сезон №9",
+      "kind": "Z011",
+      "expired_at": 20
+    },
+    "current_prices": {
+      "price_reg__min": 211.09,
+      "price_promo__min": 149.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 25911,
+    "name": "Пельмени Ложкаревъ, с томленым маслом, 900 г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3683249.jpg",
+    "plu": 3683249,
+    "promo": {
+      "id": 1130608640,
+      "date_begin": "2020-07-14",
+      "date_end": "2020-07-20",
+      "type": "PROM",
+      "description": "ЦФ 14.07-20.07.20 2020 ПРОМО 29",
+      "kind": "Z001",
+      "expired_at": 3
+    },
+    "current_prices": {
+      "price_reg__min": 254.99,
+      "price_promo__min": 169.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 27522,
+    "name": "Пельмени Стародворье, отборные, 900 г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3675532.jpg",
+    "plu": 3675532,
+    "promo": {
+      "id": 1128688059,
+      "date_begin": "2020-07-09",
+      "date_end": "2020-08-06",
+      "type": "PROM",
+      "description": "ЦФ 09.07-06.08.20 Сезон №9",
+      "kind": "Z011",
+      "expired_at": 20
+    },
+    "current_prices": {
+      "price_reg__min": 241.99,
+      "price_promo__min": 169.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 27677,
+    "name": "Полуфабрикат мясной в тесте замороженный категории В. Пельмени \"Сливочные\" 0,8кг МИРАТОРГ",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/4000407.jpg",
+    "plu": 4000407,
+    "promo": {
+      "id": 1128688059,
+      "date_begin": "2020-07-09",
+      "date_end": "2020-08-06",
+      "type": "PROM",
+      "description": "ЦФ 09.07-06.08.20 Сезон №9",
+      "kind": "Z011",
+      "expired_at": 20
+    },
+    "current_prices": {
+      "price_reg__min": 409.99,
+      "price_promo__min": 199.99
+    },
+    "store_name": null
+  }
+]

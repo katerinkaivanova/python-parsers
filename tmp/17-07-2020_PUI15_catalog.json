@@ -1,0 +1,170 @@
+[
+  {
+    "id": 25751,
+    "name": "Сыр мягкий, А ля Каймак, 150 г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3459984.jpg",
+    "plu": 3459984,
+    "promo": {
+      "id": 1130608640,
+      "date_begin": "2020-07-14",
+      "date_end": "2020-07-20",
+      "type": "PROM",
+      "description": "ЦФ 14.07-20.07.20 2020 ПРОМО 29",
+      "kind": "Z001",
+      "expired_at": 3
+    },
+    "current_prices": {
+      "price_reg__min": 84.99,
+      "price_promo__min": 69.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 25737,
+    "name": "Сыр Моцарелла, Bonfesto, 45%, 100 г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3432218.jpg",
+    "plu": 3432218,
+    "promo": {
+      "id": 1130608640,
+      "date_begin": "2020-07-14",
+      "date_end": "2020-07-20",
+      "type": "PROM",
+      "description": "ЦФ 14.07-20.07.20 2020 ПРОМО 29",
+      "kind": "Z001",
+      "expired_at": 3
+    },
+    "current_prices": {
+      "price_reg__min": 103.99,
+      "price_promo__min": 74.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 27197,
+    "name": "Сыр Сербская брынза, 45%, 250 г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3356581.jpg",
+    "plu": 3356581,
+    "promo": {
+      "id": 1128688059,
+      "date_begin": "2020-07-09",
+      "date_end": "2020-08-06",
+      "type": "PROM",
+      "description": "ЦФ 09.07-06.08.20 Сезон №9",
+      "kind": "Z011",
+      "expired_at": 20
+    },
+    "current_prices": {
+      "price_reg__min": 156.99,
+      "price_promo__min": 130.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 27760,
+    "name": "Сыр Чеддер, красный, 50%, 240 г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/4047497.jpg",
+    "plu": 4047497,
+    "promo": {
+      "id": 1128688059,
+      "date_begin": "2020-07-09",
+      "date_end": "2020-08-06",
+      "type": "PROM",
+      "description": "ЦФ 09.07-06.08.20 Сезон №9",
+      "kind": "Z011",
+      "expired_at": 20
+    },
+    "current_prices": {
+      "price_reg__min": 219.99,
+      "price_promo__min": 175.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 25924,
+    "name": "Сыр Petit Brie, мягкий с белой плесенью, President, 125 г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3693219.jpg",
+    "plu": 3693219,
+    "promo": {
+      "id": 1130608640,
+      "date_begin": "2020-07-14",
+      "date_end": "2020-07-20",
+      "type": "PROM",
+      "description": "ЦФ 14.07-20.07.20 2020 ПРОМО 29",
+      "kind": "Z001",
+      "expired_at": 3
+    },
+    "current_prices": {
+      "price_reg__min": 249.99,
+      "price_promo__min": 179.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 27327,
+    "name": "Сыр Камамбер, мягкий, с белой плесенью, Vitalat, 45%, 125 г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3482309.jpg",
+    "plu": 3482309,
+    "promo": {
+      "id": 1128688059,
+      "date_begin": "2020-07-09",
+      "date_end": "2020-08-06",
+      "type": "PROM",
+      "description": "ЦФ 09.07-06.08.20 Сезон №9",
+      "kind": "Z011",
+      "expired_at": 20
+    },
+    "current_prices": {
+      "price_reg__min": 199.99,
+      "price_promo__min": 179.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 27295,
+    "name": "Сыр Сулугуни, 45%, 330 г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3455601.jpg",
+    "plu": 3455601,
+    "promo": {
+      "id": 1128688059,
+      "date_begin": "2020-07-09",
+      "date_end": "2020-08-06",
+      "type": "PROM",
+      "description": "ЦФ 09.07-06.08.20 Сезон №9",
+      "kind": "Z011",
+      "expired_at": 20
+    },
+    "current_prices": {
+      "price_reg__min": 212.99,
+      "price_promo__min": 184.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 25971,
+    "name": "Сыр Слугуни, Свежий Ряд, 1 кг",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/4035417.jpg",
+    "plu": 4035417,
+    "promo": {
+      "id": 1130608640,
+      "date_begin": "2020-07-14",
+      "date_end": "2020-07-20",
+      "type": "PROM",
+      "description": "ЦФ 14.07-20.07.20 2020 ПРОМО 29",
+      "kind": "Z001",
+      "expired_at": 3
+    },
+    "current_prices": {
+      "price_reg__min": 699.99,
+      "price_promo__min": 599.99
+    },
+    "store_name": null
+  }
+]

@@ -1,0 +1,170 @@
+[
+  {
+    "id": 27141,
+    "name": "ДАНОН Йогурт РАСТИШКА клубника 3% 110г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3199159.jpg",
+    "plu": 3199159,
+    "promo": {
+      "id": 1128688059,
+      "date_begin": "2020-07-09",
+      "date_end": "2020-08-06",
+      "type": "PROM",
+      "description": "ЦФ 09.07-06.08.20 Сезон №9",
+      "kind": "Z011",
+      "expired_at": 20
+    },
+    "current_prices": {
+      "price_reg__min": 23.99,
+      "price_promo__min": 19.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 27142,
+    "name": "ДАНОН Йогурт РАСТИШКА ябл.-груша 3% 110г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3199161.jpg",
+    "plu": 3199161,
+    "promo": {
+      "id": 1128688059,
+      "date_begin": "2020-07-09",
+      "date_end": "2020-08-06",
+      "type": "PROM",
+      "description": "ЦФ 09.07-06.08.20 Сезон №9",
+      "kind": "Z011",
+      "expired_at": 20
+    },
+    "current_prices": {
+      "price_reg__min": 23.99,
+      "price_promo__min": 19.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 27441,
+    "name": "РАСТИШ.Йогурт с клуб.дет.2,6% 70г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3637008.jpg",
+    "plu": 3637008,
+    "promo": {
+      "id": 1128688059,
+      "date_begin": "2020-07-09",
+      "date_end": "2020-08-06",
+      "type": "PROM",
+      "description": "ЦФ 09.07-06.08.20 Сезон №9",
+      "kind": "Z011",
+      "expired_at": 20
+    },
+    "current_prices": {
+      "price_reg__min": 31.99,
+      "price_promo__min": 26.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 27442,
+    "name": "РАСТИШ.Йогурт с ябл/груш.дет.2,6% 70г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3637009.jpg",
+    "plu": 3637009,
+    "promo": {
+      "id": 1128688059,
+      "date_begin": "2020-07-09",
+      "date_end": "2020-08-06",
+      "type": "PROM",
+      "description": "ЦФ 09.07-06.08.20 Сезон №9",
+      "kind": "Z011",
+      "expired_at": 20
+    },
+    "current_prices": {
+      "price_reg__min": 31.99,
+      "price_promo__min": 26.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 27304,
+    "name": "ЧУДО ДЕТКИ Коктейль ШОКОЛ.мол.3,2% 200мл",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3466824.jpg",
+    "plu": 3466824,
+    "promo": {
+      "id": 1128688059,
+      "date_begin": "2020-07-09",
+      "date_end": "2020-08-06",
+      "type": "PROM",
+      "description": "ЦФ 09.07-06.08.20 Сезон №9",
+      "kind": "Z011",
+      "expired_at": 20
+    },
+    "current_prices": {
+      "price_reg__min": 33.59,
+      "price_promo__min": 28.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 27305,
+    "name": "ЧУДО ДЕТКИ Коктейль КЛУБН.мол.3,2% 200мл",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3466825.jpg",
+    "plu": 3466825,
+    "promo": {
+      "id": 1128688059,
+      "date_begin": "2020-07-09",
+      "date_end": "2020-08-06",
+      "type": "PROM",
+      "description": "ЦФ 09.07-06.08.20 Сезон №9",
+      "kind": "Z011",
+      "expired_at": 20
+    },
+    "current_prices": {
+      "price_reg__min": 33.59,
+      "price_promo__min": 28.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 27590,
+    "name": "Коктейль молочный стерилизованный со вкусом банан-печенье, с мдж 2,5 % \"Чудо детки\", 200 мл",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3929856.jpg",
+    "plu": 3929856,
+    "promo": {
+      "id": 1128688059,
+      "date_begin": "2020-07-09",
+      "date_end": "2020-08-06",
+      "type": "PROM",
+      "description": "ЦФ 09.07-06.08.20 Сезон №9",
+      "kind": "Z011",
+      "expired_at": 20
+    },
+    "current_prices": {
+      "price_reg__min": 35.99,
+      "price_promo__min": 28.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 25528,
+    "name": "АГУША Молоко детское 3.2% 500г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/2144368.jpg",
+    "plu": 2144368,
+    "promo": {
+      "id": 1130472259,
+      "date_begin": "2020-07-09",
+      "date_end": "2020-08-06",
+      "type": "PROM",
+      "description": "ЦФ 09.07-06.08.20 Сезон №9. ЦФ добавлени",
+      "kind": "Z011",
+      "expired_at": 20
+    },
+    "current_prices": {
+      "price_reg__min": 53.99,
+      "price_promo__min": 49.99
+    },
+    "store_name": null
+  }
+]

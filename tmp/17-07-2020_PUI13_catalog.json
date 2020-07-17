@@ -1,0 +1,212 @@
+[
+  {
+    "id": 25570,
+    "name": "Мороженое Snickers, 48 г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/6150.jpg",
+    "plu": 6150,
+    "promo": {
+      "id": 1130608640,
+      "date_begin": "2020-07-14",
+      "date_end": "2020-07-20",
+      "type": "PROM",
+      "description": "ЦФ 14.07-20.07.20 2020 ПРОМО 29",
+      "kind": "Z001",
+      "expired_at": 3
+    },
+    "current_prices": {
+      "price_reg__min": 59.99,
+      "price_promo__min": 47.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 25753,
+    "name": "Мороженое Bounty, 39,1 г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3463953.jpg",
+    "plu": 3463953,
+    "promo": {
+      "id": 1130608640,
+      "date_begin": "2020-07-14",
+      "date_end": "2020-07-20",
+      "type": "PROM",
+      "description": "ЦФ 14.07-20.07.20 2020 ПРОМО 29",
+      "kind": "Z001",
+      "expired_at": 3
+    },
+    "current_prices": {
+      "price_reg__min": 59.99,
+      "price_promo__min": 47.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 25841,
+    "name": "СВИТЛОГОР.Пломб.эск.ван.в жир.гл.15% 80г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3628052.jpg",
+    "plu": 3628052,
+    "promo": {
+      "id": 1130608640,
+      "date_begin": "2020-07-14",
+      "date_end": "2020-07-20",
+      "type": "PROM",
+      "description": "ЦФ 14.07-20.07.20 2020 ПРОМО 29",
+      "kind": "Z001",
+      "expired_at": 3
+    },
+    "current_prices": {
+      "price_reg__min": 69.99,
+      "price_promo__min": 49.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 25926,
+    "name": "СВИТЛОГОР.Мор.эск.пл.ван.в гл.15% 80г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3698147.jpg",
+    "plu": 3698147,
+    "promo": {
+      "id": 1130608640,
+      "date_begin": "2020-07-14",
+      "date_end": "2020-07-20",
+      "type": "PROM",
+      "description": "ЦФ 14.07-20.07.20 2020 ПРОМО 29",
+      "kind": "Z001",
+      "expired_at": 3
+    },
+    "current_prices": {
+      "price_reg__min": 69.99,
+      "price_promo__min": 49.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 25927,
+    "name": "СВИТЛОГОР.Мор.эск.пл.2сл.в/ш.гл.15% 80г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3698148.jpg",
+    "plu": 3698148,
+    "promo": {
+      "id": 1130608640,
+      "date_begin": "2020-07-14",
+      "date_end": "2020-07-20",
+      "type": "PROM",
+      "description": "ЦФ 14.07-20.07.20 2020 ПРОМО 29",
+      "kind": "Z001",
+      "expired_at": 3
+    },
+    "current_prices": {
+      "price_reg__min": 69.99,
+      "price_promo__min": 49.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 27778,
+    "name": "Мороженое Вологодский пломбир, черная смородина и клюква, 12%, 120 г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/4051293.jpg",
+    "plu": 4051293,
+    "promo": {
+      "id": 1128688059,
+      "date_begin": "2020-07-09",
+      "date_end": "2020-08-06",
+      "type": "PROM",
+      "description": "ЦФ 09.07-06.08.20 Сезон №9",
+      "kind": "Z011",
+      "expired_at": 20
+    },
+    "current_prices": {
+      "price_reg__min": 79.99,
+      "price_promo__min": 55.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 27531,
+    "name": "Мороженое Радуга, Чистая линия, 90 г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3680631.jpg",
+    "plu": 3680631,
+    "promo": {
+      "id": 1128688059,
+      "date_begin": "2020-07-09",
+      "date_end": "2020-08-06",
+      "type": "PROM",
+      "description": "ЦФ 09.07-06.08.20 Сезон №9",
+      "kind": "Z011",
+      "expired_at": 20
+    },
+    "current_prices": {
+      "price_reg__min": 91.19,
+      "price_promo__min": 57.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 27709,
+    "name": "МОРОЖЕНОЕ СЛИВОЧНОЕ С ДРОБЛЕНЫМ ПЕЧЕНЬЕМ В ШОКОЛАДНОМ ПЕЧЕНЬЕ «OREO»,Флоу-пак,БЗМЖ,МДЖ 8% 76 г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/4020809.jpg",
+    "plu": 4020809,
+    "promo": {
+      "id": 1128688059,
+      "date_begin": "2020-07-09",
+      "date_end": "2020-08-06",
+      "type": "PROM",
+      "description": "ЦФ 09.07-06.08.20 Сезон №9",
+      "kind": "Z011",
+      "expired_at": 20
+    },
+    "current_prices": {
+      "price_reg__min": 89.99,
+      "price_promo__min": 66.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 27761,
+    "name": "Мороженое Milka, 62 г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/4047712.jpg",
+    "plu": 4047712,
+    "promo": {
+      "id": 1128688059,
+      "date_begin": "2020-07-09",
+      "date_end": "2020-08-06",
+      "type": "PROM",
+      "description": "ЦФ 09.07-06.08.20 Сезон №9",
+      "kind": "Z011",
+      "expired_at": 20
+    },
+    "current_prices": {
+      "price_reg__min": 97.99,
+      "price_promo__min": 69.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 27622,
+    "name": "Мороженое Радуга, Чистая линия, 110 г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3955964.jpg",
+    "plu": 3955964,
+    "promo": {
+      "id": 1128688059,
+      "date_begin": "2020-07-09",
+      "date_end": "2020-08-06",
+      "type": "PROM",
+      "description": "ЦФ 09.07-06.08.20 Сезон №9",
+      "kind": "Z011",
+      "expired_at": 20
+    },
+    "current_prices": {
+      "price_reg__min": 109.99,
+      "price_promo__min": 75.99
+    },
+    "store_name": null
+  }
+]
