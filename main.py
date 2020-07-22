@@ -1,58 +1,71 @@
+from typing import List, Dict
+import datetime as dt
+import os
 import json
+
 import requests
-import datetime
 
 
 class Catalog:
-    headers = {
-        "User-Agent":
-            "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) "
-            "Chrome/84.0.4147.89 Safari/537.36 ",
+    __urls = {
+        'categories': 'https://5ka.ru/api/v2/categories/',
+        'products': 'https://5ka.ru/api/v2/special_offers/'
     }
 
-    params = {
-        "records_per_page": 20,
+    __params = {
+        'records_per_page': 50,
+        'categories': '',
     }
 
-    def __init__(self, resource_url, categories_url):
-        self.__resource_url = resource_url
-        self.__categories_url = categories_url
-        self.__catalog = [{}]
+    __headers = {
+        "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:78.0) Gecko/20100101 Firefox/78.0",
+    }
+
+    __replaces = (',', '-', '/', '\\', '.', '"', "'", '*', '#',)
+
+    def __init__(self, folder_name='data'):
+        self.category = self.__get_categories()
+        self.folder_data = os.path.join(os.path.dirname(__file__), folder_name)
+
+    def __get_categories(self) -> List[Dict[str, str]]:
+        response = requests.get(self.__urls['categories'])
+        return response.json()
 
     def parse(self):
-        url = self.__resource_url
-        categories_response = requests.get(self.__categories_url, headers=self.headers)
-        categories = categories_response.json()
+        for category in self.category:
+            self.get_products(category)
+            self.save_to_file(category)
 
-        for elem in categories:
-            params = self.params
+    def get_products(self, category):
+        url = self.__urls['products']
+        params = self.__params
+        params['categories'] = category['parent_group_code']
 
-            category = elem['parent_group_code']
-            params['categories'] = category
+        while url:
+            response = requests.get(url, params=params, headers=self.__headers)
+            data = response.json()
+            url = data['next']
+            params = {}
 
-            self.__catalog[0][category] = []
+            if category.get('products'):
+                category['products'].extend(data['results'])
+            else:
+                category['products'] = data['results']
+        category['parse_date'] = dt.datetime.now().timestamp()
 
-            while url:
-                response = requests.get(url, headers=self.headers, params=params)
-                data = response.json()
-                self.__catalog[0][category].extend(data['results'])
+    def save_to_file(self, category):
+        name = category['parent_group_name']
+        for itm in self.__replaces:
+            name = name.replace(itm, '')
+        name = '_'.join(name.split()).lower()
 
-                url = data['next']
-                params = {'categories': category}
+        file_path = os.path.join(self.folder_data, f'{name}.json')
 
-            url = self.__resource_url
-
-    def export(self):
-        timestamp = datetime.datetime.now().strftime('%d-%m-%Y')
-
-        for category in self.__catalog[0]:
-            with open(f'tmp/{timestamp}_{category}_catalog.json', 'w', encoding='UTF-8') as file:
-                json.dump(self.__catalog[0][category], file, ensure_ascii=False)
+        with open(file_path, 'w', encoding='UTF-8') as file:
+            json.dump(category, file, ensure_ascii=False)
 
 
 if __name__ == '__main__':
-    catalog = Catalog('https://5ka.ru/api/v2/special_offers/', 'https://5ka.ru/api/v2/categories/')
-    catalog.parse()
-    catalog.export()
-
-    print('Done')
+    parser = Catalog()
+    parser.parse()
+    print(1)
