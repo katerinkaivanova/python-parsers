@@ -1,71 +1,89 @@
-from typing import List, Dict
-import datetime as dt
 import os
 import json
-
 import requests
+import datetime as dt
+
+from bs4 import BeautifulSoup as bs
 
 
-class Catalog:
-    __urls = {
-        'categories': 'https://5ka.ru/api/v2/categories/',
-        'products': 'https://5ka.ru/api/v2/special_offers/'
-    }
+class GbBlogParser:
+    __domain = 'https://geekbrains.ru'
+    __url = 'https://geekbrains.ru/posts'
+    __done_urls = set()
 
-    __params = {
-        'records_per_page': 50,
-        'categories': '',
-    }
+    def __init__(self, folder_name='tmp'):
+        self.posts_urls = set()
+        self.pagination_urls = set()
+        self.posts_data = []
 
-    __headers = {
-        "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:78.0) Gecko/20100101 Firefox/78.0",
-    }
-
-    __replaces = (',', '-', '/', '\\', '.', '"', "'", '*', '#',)
-
-    def __init__(self, folder_name='data'):
-        self.category = self.__get_categories()
         self.folder_data = os.path.join(os.path.dirname(__file__), folder_name)
 
-    def __get_categories(self) -> List[Dict[str, str]]:
-        response = requests.get(self.__urls['categories'])
-        return response.json()
+    # создание soup-объекта
+    @staticmethod
+    def get_page_soup(url):
+        response = requests.get(url)
+        soup = bs(response.text, 'lxml')
+        return soup
 
-    def parse(self):
-        for category in self.category:
-            self.get_products(category)
-            self.save_to_file(category)
+    # парсинг ссылок
+    def run(self, url=None):
+        url = url or self.__url
+        soup = self.get_page_soup(url)
+        self.pagination_urls.update(self.get_pagination(soup))
+        self.posts_urls.update(self.get_posts_urls(soup))
 
-    def get_products(self, category):
-        url = self.__urls['products']
-        params = self.__params
-        params['categories'] = category['parent_group_code']
+        for url in tuple(self.pagination_urls):
+            if url not in self.__done_urls:
+                self.__done_urls.add(url)
+                self.run(url)
 
-        while url:
-            response = requests.get(url, params=params, headers=self.__headers)
-            data = response.json()
-            url = data['next']
-            params = {}
+    # парсинг данных
+    def extract(self):
+        for url in tuple(self.posts_urls):
+            soup = self.get_page_soup(url)
+            title = soup.find('h1', attrs={'class': 'blogpost-title'}).text
+            writer_name = soup.find('div', attrs={'itemprop': 'author'}).text
 
-            if category.get('products'):
-                category['products'].extend(data['results'])
-            else:
-                category['products'] = data['results']
-        category['parse_date'] = dt.datetime.now().timestamp()
+            writer_url = ''
+            links = soup.find_all('a')
+            for link in links:
+                if link.get("href") and 'users' in link.get('href'):
+                    writer_url = f'{self.__domain}{link.get("href")}'
+                    break
 
-    def save_to_file(self, category):
-        name = category['parent_group_name']
-        for itm in self.__replaces:
-            name = name.replace(itm, '')
-        name = '_'.join(name.split()).lower()
+            data = {
+                'title': title,
+                'post_url': url,
+                'writer_name': writer_name,
+                'writer_url': writer_url
+            }
 
-        file_path = os.path.join(self.folder_data, f'{name}.json')
+            self.posts_data.append(data)
+
+    # экспорт в json-файл
+    def save(self):
+        now = dt.datetime.now().strftime('%d-%m-%Y')
+        file_path = os.path.join(self.folder_data, f'{now}.json')
 
         with open(file_path, 'w', encoding='UTF-8') as file:
-            json.dump(category, file, ensure_ascii=False)
+            json.dump(self.posts_data, file, ensure_ascii=False)
+
+    # ссылки на страницы
+    def get_pagination(self, soup):
+        ul = soup.find('ul', attrs={'class': 'gb__pagination'})
+        a_list = [f'{self.__domain}{a.get("href")}' for a in ul.find_all('a') if a.get("href")]
+        return a_list
+
+    # ссылки на посты
+    def get_posts_urls(self, soup):
+        posts_wrap = soup.find('div', attrs={'class': 'post-items-wrapper'})
+        a_list = [f'{self.__domain}{a.get("href")}' for a in
+                  posts_wrap.find_all('a', attrs={'class': 'post-item__title'})]
+        return a_list
 
 
 if __name__ == '__main__':
-    parser = Catalog()
-    parser.parse()
-    print(1)
+    parser = GbBlogParser()
+    parser.run()
+    parser.extract()
+    parser.save()
