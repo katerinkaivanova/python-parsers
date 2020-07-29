@@ -1,0 +1,233 @@
+[
+  {
+    "id": 25762,
+    "name": "Семечки от Мартина, обжаренные с морской солью, Мааг, 100 г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3469303.jpg",
+    "plu": 3469303,
+    "promo": {
+      "id": 1130608640,
+      "date_begin": "2020-07-14",
+      "date_end": "2020-07-20",
+      "type": "PROM",
+      "description": "ЦФ 14.07-20.07.20 2020 ПРОМО 29",
+      "kind": "Z001",
+      "expired_at": 3
+    },
+    "current_prices": {
+      "price_reg__min": 46.99,
+      "price_promo__min": 39.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 27566,
+    "name": "Семечки Молодежный, жареные, 200 г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3695680.jpg",
+    "plu": 3695680,
+    "promo": {
+      "id": 1128688059,
+      "date_begin": "2020-07-09",
+      "date_end": "2020-08-06",
+      "type": "PROM",
+      "description": "ЦФ 09.07-06.08.20 Сезон №9",
+      "kind": "Z011",
+      "expired_at": 20
+    },
+    "current_prices": {
+      "price_reg__min": 55.49,
+      "price_promo__min": 39.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 27739,
+    "name": "Маринованный жареный арахис со вкусом меда и горчицы \"PARTY NUTS\" 70 гр",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/4038494.jpg",
+    "plu": 4038494,
+    "promo": {
+      "id": 1128688059,
+      "date_begin": "2020-07-09",
+      "date_end": "2020-08-06",
+      "type": "PROM",
+      "description": "ЦФ 09.07-06.08.20 Сезон №9",
+      "kind": "Z011",
+      "expired_at": 20
+    },
+    "current_prices": {
+      "price_reg__min": 69.99,
+      "price_promo__min": 39.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 27740,
+    "name": "Маринованный жареный арахис со вкусом сметаны и зеленого лука \"PARTY NUTS\" 70 гр",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/4038495.jpg",
+    "plu": 4038495,
+    "promo": {
+      "id": 1128688059,
+      "date_begin": "2020-07-09",
+      "date_end": "2020-08-06",
+      "type": "PROM",
+      "description": "ЦФ 09.07-06.08.20 Сезон №9",
+      "kind": "Z011",
+      "expired_at": 20
+    },
+    "current_prices": {
+      "price_reg__min": 69.99,
+      "price_promo__min": 39.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 27742,
+    "name": "Маринованный жареный арахис с Морской Солью И Черным Перцем \"PARTY NUTS\" 70 ГР",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/4039148.jpg",
+    "plu": 4039148,
+    "promo": {
+      "id": 1128688059,
+      "date_begin": "2020-07-09",
+      "date_end": "2020-08-06",
+      "type": "PROM",
+      "description": "ЦФ 09.07-06.08.20 Сезон №9",
+      "kind": "Z011",
+      "expired_at": 20
+    },
+    "current_prices": {
+      "price_reg__min": 69.99,
+      "price_promo__min": 39.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 27061,
+    "name": "Бабкины семечки, жареные, 300 г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/85158.jpg",
+    "plu": 85158,
+    "promo": {
+      "id": 1128688059,
+      "date_begin": "2020-07-09",
+      "date_end": "2020-08-06",
+      "type": "PROM",
+      "description": "ЦФ 09.07-06.08.20 Сезон №9",
+      "kind": "Z011",
+      "expired_at": 20
+    },
+    "current_prices": {
+      "price_reg__min": 99.99,
+      "price_promo__min": 59.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 25722,
+    "name": "Семечки От Мартина, Отборные, 200 г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3403508.jpg",
+    "plu": 3403508,
+    "promo": {
+      "id": 1130608640,
+      "date_begin": "2020-07-14",
+      "date_end": "2020-07-20",
+      "type": "PROM",
+      "description": "ЦФ 14.07-20.07.20 2020 ПРОМО 29",
+      "kind": "Z001",
+      "expired_at": 3
+    },
+    "current_prices": {
+      "price_reg__min": 88.19,
+      "price_promo__min": 79.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 27361,
+    "name": "Семечки тыквы, соленый, От Мартина, 100 г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3503953.jpg",
+    "plu": 3503953,
+    "promo": {
+      "id": 1128688059,
+      "date_begin": "2020-07-09",
+      "date_end": "2020-08-06",
+      "type": "PROM",
+      "description": "ЦФ 09.07-06.08.20 Сезон №9",
+      "kind": "Z011",
+      "expired_at": 20
+    },
+    "current_prices": {
+      "price_reg__min": 134.99,
+      "price_promo__min": 89.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 27376,
+    "name": "Грецкий орех, очищенный, сырой, NaturFoods, 130 г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3608009.jpg",
+    "plu": 3608009,
+    "promo": {
+      "id": 1128688059,
+      "date_begin": "2020-07-09",
+      "date_end": "2020-08-06",
+      "type": "PROM",
+      "description": "ЦФ 09.07-06.08.20 Сезон №9",
+      "kind": "Z011",
+      "expired_at": 20
+    },
+    "current_prices": {
+      "price_reg__min": 149.99,
+      "price_promo__min": 129.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 27422,
+    "name": "Семечки от Мартина, особые, 200 г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3630849.jpg",
+    "plu": 3630849,
+    "promo": {
+      "id": 1128688059,
+      "date_begin": "2020-07-09",
+      "date_end": "2020-08-06",
+      "type": "PROM",
+      "description": "ЦФ 09.07-06.08.20 Сезон №9",
+      "kind": "Z011",
+      "expired_at": 20
+    },
+    "current_prices": {
+      "price_reg__min": 208.99,
+      "price_promo__min": 179.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 27664,
+    "name": "Орехи фисташковые PREMIUM неочищенные жареные соленые 130 г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3985076.jpg",
+    "plu": 3985076,
+    "promo": {
+      "id": 1128688059,
+      "date_begin": "2020-07-09",
+      "date_end": "2020-08-06",
+      "type": "PROM",
+      "description": "ЦФ 09.07-06.08.20 Сезон №9",
+      "kind": "Z011",
+      "expired_at": 20
+    },
+    "current_prices": {
+      "price_reg__min": 221.99,
+      "price_promo__min": 219.99
+    },
+    "store_name": null
+  }
+]

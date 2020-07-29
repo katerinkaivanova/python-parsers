@@ -1,0 +1,359 @@
+[
+  {
+    "id": 27583,
+    "name": "Палочки кукурузные Ухтышки, сладкие, 140 г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3922199.jpg",
+    "plu": 3922199,
+    "promo": {
+      "id": 1128688059,
+      "date_begin": "2020-07-09",
+      "date_end": "2020-08-06",
+      "type": "PROM",
+      "description": "ЦФ 09.07-06.08.20 Сезон №9",
+      "kind": "Z011",
+      "expired_at": 20
+    },
+    "current_prices": {
+      "price_reg__min": 25.99,
+      "price_promo__min": 21.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 25801,
+    "name": "Хлопья Клинские Экстра, овсяные, 500 г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3601464.jpg",
+    "plu": 3601464,
+    "promo": {
+      "id": 1130608640,
+      "date_begin": "2020-07-14",
+      "date_end": "2020-07-20",
+      "type": "PROM",
+      "description": "ЦФ 14.07-20.07.20 2020 ПРОМО 29",
+      "kind": "Z001",
+      "expired_at": 3
+    },
+    "current_prices": {
+      "price_reg__min": 64.99,
+      "price_promo__min": 39.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 27280,
+    "name": "Кукурузные шарики Сырball, со вкусом сыра, 140 г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3437912.jpg",
+    "plu": 3437912,
+    "promo": {
+      "id": 1128688059,
+      "date_begin": "2020-07-09",
+      "date_end": "2020-08-06",
+      "type": "PROM",
+      "description": "ЦФ 09.07-06.08.20 Сезон №9",
+      "kind": "Z011",
+      "expired_at": 20
+    },
+    "current_prices": {
+      "price_reg__min": 62.99,
+      "price_promo__min": 44.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 27386,
+    "name": "Хлопья Увелка, рисовые, 400 г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3613391.jpg",
+    "plu": 3613391,
+    "promo": {
+      "id": 1128688059,
+      "date_begin": "2020-07-09",
+      "date_end": "2020-08-06",
+      "type": "PROM",
+      "description": "ЦФ 09.07-06.08.20 Сезон №9",
+      "kind": "Z011",
+      "expired_at": 20
+    },
+    "current_prices": {
+      "price_reg__min": 82.99,
+      "price_promo__min": 59.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 25717,
+    "name": "Мюсли Matti,банан-шоколад, 250 г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3398284.jpg",
+    "plu": 3398284,
+    "promo": {
+      "id": 1130608640,
+      "date_begin": "2020-07-14",
+      "date_end": "2020-07-20",
+      "type": "PROM",
+      "description": "ЦФ 14.07-20.07.20 2020 ПРОМО 29",
+      "kind": "Z001",
+      "expired_at": 3
+    },
+    "current_prices": {
+      "price_reg__min": 89.99,
+      "price_promo__min": 69.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 25718,
+    "name": "Мюсли Matti, ежевика-малина, 250 г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3398285.jpg",
+    "plu": 3398285,
+    "promo": {
+      "id": 1130608640,
+      "date_begin": "2020-07-14",
+      "date_end": "2020-07-20",
+      "type": "PROM",
+      "description": "ЦФ 14.07-20.07.20 2020 ПРОМО 29",
+      "kind": "Z001",
+      "expired_at": 3
+    },
+    "current_prices": {
+      "price_reg__min": 89.99,
+      "price_promo__min": 69.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 25719,
+    "name": "Мюсли Matti, орех-яблоко, 250 г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3398286.jpg",
+    "plu": 3398286,
+    "promo": {
+      "id": 1130608640,
+      "date_begin": "2020-07-14",
+      "date_end": "2020-07-20",
+      "type": "PROM",
+      "description": "ЦФ 14.07-20.07.20 2020 ПРОМО 29",
+      "kind": "Z001",
+      "expired_at": 3
+    },
+    "current_prices": {
+      "price_reg__min": 89.99,
+      "price_promo__min": 69.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 27686,
+    "name": "Завтраки Krosby, колечки, 250 г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/4007613.jpg",
+    "plu": 4007613,
+    "promo": {
+      "id": 1128688059,
+      "date_begin": "2020-07-09",
+      "date_end": "2020-08-06",
+      "type": "PROM",
+      "description": "ЦФ 09.07-06.08.20 Сезон №9",
+      "kind": "Z011",
+      "expired_at": 20
+    },
+    "current_prices": {
+      "price_reg__min": 99.99,
+      "price_promo__min": 74.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 27262,
+    "name": "Хлопья Fitness, из цельной пшеницы, 250 г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3425843.jpg",
+    "plu": 3425843,
+    "promo": {
+      "id": 1128688059,
+      "date_begin": "2020-07-09",
+      "date_end": "2020-08-06",
+      "type": "PROM",
+      "description": "ЦФ 09.07-06.08.20 Сезон №9",
+      "kind": "Z011",
+      "expired_at": 20
+    },
+    "current_prices": {
+      "price_reg__min": 119.99,
+      "price_promo__min": 79.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 27274,
+    "name": "Завтрак медовый Kosmostars, 225 г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3434741.jpg",
+    "plu": 3434741,
+    "promo": {
+      "id": 1128688059,
+      "date_begin": "2020-07-09",
+      "date_end": "2020-08-06",
+      "type": "PROM",
+      "description": "ЦФ 09.07-06.08.20 Сезон №9",
+      "kind": "Z011",
+      "expired_at": 20
+    },
+    "current_prices": {
+      "price_reg__min": 119.99,
+      "price_promo__min": 79.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 27319,
+    "name": "Готовый завтрак Nestle Cini Minis, безбашенные квадры, с корицей, 250 г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3477236.jpg",
+    "plu": 3477236,
+    "promo": {
+      "id": 1128688059,
+      "date_begin": "2020-07-09",
+      "date_end": "2020-08-06",
+      "type": "PROM",
+      "description": "ЦФ 09.07-06.08.20 Сезон №9",
+      "kind": "Z011",
+      "expired_at": 20
+    },
+    "current_prices": {
+      "price_reg__min": 139.99,
+      "price_promo__min": 89.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 27145,
+    "name": "БЫСТРОВ Каша ПРЕБ.АССОР.овс.с мол.6х40г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3207217.jpg",
+    "plu": 3207217,
+    "promo": {
+      "id": 1128688059,
+      "date_begin": "2020-07-09",
+      "date_end": "2020-08-06",
+      "type": "PROM",
+      "description": "ЦФ 09.07-06.08.20 Сезон №9",
+      "kind": "Z011",
+      "expired_at": 20
+    },
+    "current_prices": {
+      "price_reg__min": 154.99,
+      "price_promo__min": 96.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 27146,
+    "name": "БЫСТРОВ Каша овсяная ассорти 6пх40г 240г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3207223.jpg",
+    "plu": 3207223,
+    "promo": {
+      "id": 1128688059,
+      "date_begin": "2020-07-09",
+      "date_end": "2020-08-06",
+      "type": "PROM",
+      "description": "ЦФ 09.07-06.08.20 Сезон №9",
+      "kind": "Z011",
+      "expired_at": 20
+    },
+    "current_prices": {
+      "price_reg__min": 154.99,
+      "price_promo__min": 96.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 27594,
+    "name": "БЫСТРОВ. БЕЗ ВАРКИ. АССОРТИ. ДЛЯ ГУРМАНОВ. КАША ОВСЯНАЯ, НЕ ТРЕБУЮЩАЯ ВАРКИ, 228 г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3932885.jpg",
+    "plu": 3932885,
+    "promo": {
+      "id": 1128688059,
+      "date_begin": "2020-07-09",
+      "date_end": "2020-08-06",
+      "type": "PROM",
+      "description": "ЦФ 09.07-06.08.20 Сезон №9",
+      "kind": "Z011",
+      "expired_at": 20
+    },
+    "current_prices": {
+      "price_reg__min": 149.99,
+      "price_promo__min": 96.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 27007,
+    "name": "Хлопья овсяные, Nordic, 500 г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/9056.jpg",
+    "plu": 9056,
+    "promo": {
+      "id": 1128688059,
+      "date_begin": "2020-07-09",
+      "date_end": "2020-08-06",
+      "type": "PROM",
+      "description": "ЦФ 09.07-06.08.20 Сезон №9",
+      "kind": "Z011",
+      "expired_at": 20
+    },
+    "current_prices": {
+      "price_reg__min": 119.99,
+      "price_promo__min": 109.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 27153,
+    "name": "AXA Мюсли медовые с ягодами 270г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3224452.jpg",
+    "plu": 3224452,
+    "promo": {
+      "id": 1128688059,
+      "date_begin": "2020-07-09",
+      "date_end": "2020-08-06",
+      "type": "PROM",
+      "description": "ЦФ 09.07-06.08.20 Сезон №9",
+      "kind": "Z011",
+      "expired_at": 20
+    },
+    "current_prices": {
+      "price_reg__min": 169.99,
+      "price_promo__min": 119.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 27344,
+    "name": "AXA Мюсли медов.шокол/орех 250г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3492142.jpg",
+    "plu": 3492142,
+    "promo": {
+      "id": 1128688059,
+      "date_begin": "2020-07-09",
+      "date_end": "2020-08-06",
+      "type": "PROM",
+      "description": "ЦФ 09.07-06.08.20 Сезон №9",
+      "kind": "Z011",
+      "expired_at": 20
+    },
+    "current_prices": {
+      "price_reg__min": 169.99,
+      "price_promo__min": 119.99
+    },
+    "store_name": null
+  }
+]

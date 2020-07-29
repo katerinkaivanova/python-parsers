@@ -1,0 +1,65 @@
+[
+  {
+    "id": 25928,
+    "name": "Масло сливочное, Традиционное, Му-у, 82,5%, 180 г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3698785.jpg",
+    "plu": 3698785,
+    "promo": {
+      "id": 1130608640,
+      "date_begin": "2020-07-14",
+      "date_end": "2020-07-20",
+      "type": "PROM",
+      "description": "ЦФ 14.07-20.07.20 2020 ПРОМО 29",
+      "kind": "Z001",
+      "expired_at": 3
+    },
+    "current_prices": {
+      "price_reg__min": 152.99,
+      "price_promo__min": 99.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 25897,
+    "name": "Масло Из Вологды, сливочное, традиционное, 82,5%, 160 г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3670111.jpg",
+    "plu": 3670111,
+    "promo": {
+      "id": 1130608640,
+      "date_begin": "2020-07-14",
+      "date_end": "2020-07-20",
+      "type": "PROM",
+      "description": "ЦФ 14.07-20.07.20 2020 ПРОМО 29",
+      "kind": "Z001",
+      "expired_at": 3
+    },
+    "current_prices": {
+      "price_reg__min": 177.99,
+      "price_promo__min": 139.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 27156,
+    "name": "Масло Сливочное, Экомилк, 82,5%, 450 г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3250369.jpg",
+    "plu": 3250369,
+    "promo": {
+      "id": 1128688059,
+      "date_begin": "2020-07-09",
+      "date_end": "2020-08-06",
+      "type": "PROM",
+      "description": "ЦФ 09.07-06.08.20 Сезон №9",
+      "kind": "Z011",
+      "expired_at": 20
+    },
+    "current_prices": {
+      "price_reg__min": 313.99,
+      "price_promo__min": 289.99
+    },
+    "store_name": null
+  }
+]

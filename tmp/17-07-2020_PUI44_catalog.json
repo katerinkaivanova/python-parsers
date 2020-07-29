@@ -1,0 +1,23 @@
+[
+  {
+    "id": 25887,
+    "name": "Яйца куриные, Экояйцо, С1, 10 шт., 1 уп.",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3661861.jpg",
+    "plu": 3661861,
+    "promo": {
+      "id": 1130608640,
+      "date_begin": "2020-07-14",
+      "date_end": "2020-07-20",
+      "type": "PROM",
+      "description": "ЦФ 14.07-20.07.20 2020 ПРОМО 29",
+      "kind": "Z001",
+      "expired_at": 3
+    },
+    "current_prices": {
+      "price_reg__min": 77.99,
+      "price_promo__min": 59.99
+    },
+    "store_name": null
+  }
+]
